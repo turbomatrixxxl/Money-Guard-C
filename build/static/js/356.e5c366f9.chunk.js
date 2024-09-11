@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmoney_guard=self.webpackChunkmoney_guard||[]).push([[356],{356:(e,u,a)=>{a.r(u),a.d(u,{default:()=>r});a(43);var n=a(579);function r(){return(0,n.jsx)("div",{children:"StatisticsTab"})}}}]);
+//# sourceMappingURL=356.e5c366f9.chunk.js.map

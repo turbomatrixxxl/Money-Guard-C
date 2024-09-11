@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/184.2060c479.chunk.js","mappings":"yJAEe,SAASA,IACtB,OAAOC,EAAAA,EAAAA,KAAA,OAAAC,SAAK,WACd,C","sources":["pages/HomeTab/HomeTab.jsx"],"sourcesContent":["import React from \"react\";\r\n\r\nexport default function HomeTab() {\r\n  return <div>HomeTab</div>;\r\n}\r\n"],"names":["HomeTab","_jsx","children"],"sourceRoot":""}
